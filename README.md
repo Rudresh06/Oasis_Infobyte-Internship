@@ -1,6 +1,6 @@
 # Oasis_Infobyte-Internship
-In our first task I used Scikit-learn for classification of different species of flowers on Iris data set.
-In Second task I analyzed the unemployment rate , which is the number of people.
+Task 1 - I used Scikit-learn for classification of different species of flowers on Iris data set.
+Task 2 - I analyzed the unemployment rate , which is the number of people.
 who are unemployed as a percentage of the total labour force.
 Task 3 - Used Machine learning to train the spam detector to recognize and classify emails into spam and non-spam. 
 Task 4 - Predicted sales with machine learning using Python.Sales prediction means predicting how much of a product people will buy based on factors
